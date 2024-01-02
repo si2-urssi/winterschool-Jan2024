@@ -5,6 +5,9 @@
 
 Welcome to the repository for the 2024 URSSI Winter School! All instruction will happen at the [Oregon State University Portland Center](https://www.google.com/maps/place/Oregon+State+University+-+Portland+Center/@45.5191668,-122.6806424,17z/data=!3m2!4b1!5s0x54950a04eb56b777:0xce0d6c2b65a905b5!4m6!3m5!1s0x54950b18857f5857:0x219823f05976c110!8m2!3d45.5191631!4d-122.6780675!16s%2Fg%2F11gsn2wn_c).
 
+The front doors are located on the corner of 6th/Morrison (right next to The Nines Hotel). You will need to access the call box to ring security, show the guest pass to the little camera there, and security will buzz you in. Elevators will be unlocked for you and we are on the 2nd floor in room 2029.
+
+Please show the [guest pass](./Z5039%20--%20URSSI%20Software%20School.png) on your phone (or a printed copy) to the camera at the entrance.
 
 ## Tentative schedule
 
