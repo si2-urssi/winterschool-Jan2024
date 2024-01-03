@@ -5,7 +5,7 @@
 
 [HackMD for notes/discussion](https://hackmd.io/@kyleniemeyer/SkoP3GmOT/edit)
 
-[Gitter chat room](https://matrix.to/#/!joAajBiAKSopyhHuWy:gitter.im?via=gitter.im)
+[Gitter chat room](https://matrix.to/#/#urssi-winterschool:gitter.im)
 
 --- 
 
