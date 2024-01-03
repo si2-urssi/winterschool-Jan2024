@@ -1,6 +1,14 @@
 # URSSI Winter School
 ---
 
+## Discussion and notes
+
+[HackMD for notes/discussion](https://hackmd.io/@kyleniemeyer/SkoP3GmOT/edit)
+
+[Gitter chat room](https://matrix.to/#/!joAajBiAKSopyhHuWy:gitter.im?via=gitter.im)
+
+--- 
+
 3-5 January 2024, Portland OR
 
 Welcome to the repository for the 2024 URSSI Winter School! All instruction will happen at the [Oregon State University Portland Center](https://www.google.com/maps/place/Oregon+State+University+-+Portland+Center/@45.5191668,-122.6806424,17z/data=!3m2!4b1!5s0x54950a04eb56b777:0xce0d6c2b65a905b5!4m6!3m5!1s0x54950b18857f5857:0x219823f05976c110!8m2!3d45.5191631!4d-122.6780675!16s%2Fg%2F11gsn2wn_c).
@@ -14,11 +22,11 @@ Please show the [guest pass](./Z5039%20--%20URSSI%20Software%20School.png) on yo
 | Time | Topic  | Resources  | Instructor
 |:--|:--|:--|:--|
 | 3rd, 1-2pm  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) |  | Kyle
-| 3rd, 2-5pm  | [Software design and modularity](),<br/>[Structuring Python packages]() |  | Eva, Kyle
+| 3rd, 2-5pm  | [Software design and modularity](),<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  | Eva, Kyle
 | 4th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](), [Git Exercises](), work time |  | Madicken
 | 4th, 1-5pm  | [Testing and continuous integration, linting](), work time |  | Eva
 | 5th, 9am-12pm | [Peer code review](), work time | | Madicken
-| 5th, 1-5pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation]() |  | Kyle
+| 5th, 1-5pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation and versioning]() |  | Kyle
 | 5th, evening | Informal dinner, departure |  |
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on both the 4th and 5th.
