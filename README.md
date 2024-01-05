@@ -27,7 +27,7 @@ Please show the [guest pass](./Z5039%20--%20URSSI%20Software%20School.png) on yo
 | 4th, 1-5pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | Eva
 | 5th, 9am-12pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), [Remote Development on HPCs](https://jpmorgan98.github.io/urssi-remotedev-slides/hpc-dev.slides.html#/) work time | | Madicken, Joanna
 | 5th, 1-5pm | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/), [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
-| 5th, evening | Informal dinner, departure |  |
+| 5th, 6:30 pm | Informal dinner @ [10 Barrel Brewing](https://maps.app.goo.gl/zgS8TCaBXFsekDEf7) |  |
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on both the 4th and 5th.
 
