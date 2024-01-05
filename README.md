@@ -7,6 +7,8 @@
 
 [Gitter chat room](https://matrix.to/#/#urssi-winterschool:gitter.im)
 
+[HackMD for sharing contact info](https://hackmd.io/Vm6H0Nc0Tq-DVbfRiVvXPg)
+
 --- 
 
 3-5 January 2024, Portland OR
