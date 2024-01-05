@@ -25,7 +25,7 @@ Please show the [guest pass](./Z5039%20--%20URSSI%20Software%20School.png) on yo
 | 3rd, 2-5pm  | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/),<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  | Eva, Kyle
 | 4th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html), [Git Exercises](), work time |  | Madicken
 | 4th, 1-5pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/), work time |  | Eva
-| 5th, 9am-12pm | [Peer code review](), work time | | Madicken
+| 5th, 9am-12pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html), work time | | Madicken
 | 5th, 1-5pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation and versioning]() |  | Kyle
 | 5th, evening | Informal dinner, departure |  |
 
