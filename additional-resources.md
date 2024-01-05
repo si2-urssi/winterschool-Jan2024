@@ -14,8 +14,14 @@
 
 ## Git(hub)
 
+- [Git braching learning tool](https://learngitbranching.js.org/)
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+## Testing and Contionus Integration
+
+-[Examples of non numerical tests](https://github.com/kyleniemeyer/PyKED/blob/master/pyked/tests/test_validation.py)
+-[Adding linting](https://github.com/evamaxfield/winter-school-lectures/pull/4/files)
+-[CI workflow for publishing to pypi](https://github.com/CouncilDataProject/cdp-backend/blob/main/.github/workflows/ci.yml)
 
 ## HPC Remote Devlopment
 
