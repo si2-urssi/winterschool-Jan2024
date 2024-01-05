@@ -15,3 +15,11 @@
 ## Git(hub)
 
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+
+## HPC Remote Devlopment
+
+* [How to set up SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* [SLURM cheat sheet](https://bioinformaticsworkbook.org/Appendix/HPC/SLURM/slurm-cheatsheat.html#gsc.tab=0)
+* [Miniconda v Conda v Mamba](https://statistics.berkeley.edu/computing/conda)
+* [Module systems](https://hpc-wiki.info/hpc/Modules)
