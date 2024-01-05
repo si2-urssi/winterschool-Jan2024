@@ -19,9 +19,9 @@
 
 ## Testing and Contionus Integration
 
--[Examples of non numerical tests](https://github.com/kyleniemeyer/PyKED/blob/master/pyked/tests/test_validation.py)
--[Adding linting](https://github.com/evamaxfield/winter-school-lectures/pull/4/files)
--[CI workflow for publishing to pypi](https://github.com/CouncilDataProject/cdp-backend/blob/main/.github/workflows/ci.yml)
+- [Examples of non numerical tests](https://github.com/kyleniemeyer/PyKED/blob/master/pyked/tests/test_validation.py)
+- [Adding linting](https://github.com/evamaxfield/winter-school-lectures/pull/4/files)
+- [CI workflow for publishing to pypi](https://github.com/CouncilDataProject/cdp-backend/blob/main/.github/workflows/ci.yml)
 
 ## HPC Remote Devlopment
 
