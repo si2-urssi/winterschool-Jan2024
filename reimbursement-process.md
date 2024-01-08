@@ -2,6 +2,8 @@
 
 Thanks to the Sloan Foundation grant that supports the URSSI Schools on Research Software Engineering, we can reimburse you for your travel expenses (excluding the hotel stay, which should have been directly billed to Oregon State).
 
+**Oregon State folks**: please submit a travel reimbursement request using Concur, using the index F1211B.
+
 1. Everyone should have received an invitation to register as a vendor through OSU's BennyBuy system. For job title / role, you can say "workshop participant". Please make sure you complete this ASAP!
 2. Add your personal information and travel expenses to the "Non-OSU Travel Reimbursement - URSSI.pdf" form, which has been pre-populated with some information. 
   - Add your personal info (leave "OSU ID#" blank)
