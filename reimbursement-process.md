@@ -4,7 +4,7 @@ Thanks to the Sloan Foundation grant that supports the URSSI Schools on Research
 
 **Oregon State folks**: please submit a travel reimbursement request using Concur, using the index F1211B.
 
-1. Everyone should have received an invitation to register as a vendor through OSU's BennyBuy system. If you are asked for a job title / role, you can say "workshop participant". Please make sure you complete this ASAP!
+1. Everyone should have received an invitation to register as a vendor through OSU's BennyBuy system. You should register as an individual, add your SSN, and then upload a filled W-9 form (though you will not actually be taxed for the reimbursement). If you are asked for a job title / role, you can say "workshop participant". Please make sure you complete this ASAP!
 2. Separately from the BennyBuy system, download and add your personal information and travel expenses to the ["Non-OSU Travel Reimbursement - URSSI.pdf" form](./Non-OSU%20Travel%20Reimbursement%20-%20URSSI.pdf), which has been pre-populated with some information. 
   - Add your personal info (leave "OSU ID#" blank)
   - In Travel Itinerary section, add your home city. Modify the dates you left and returned home if different.
